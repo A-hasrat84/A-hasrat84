@@ -32,6 +32,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=A-hasrat84&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 ---
+![trophy](https://github-profile-trophy.vercel.app/?username=A-hasrat84&column=6&theme=gruvbox)
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
