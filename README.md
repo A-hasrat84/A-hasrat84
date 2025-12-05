@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔧 DevOps Enthusiast based in YOUR LOCATION  
+- 🔧 DevOps Enthusiast based in South wales  
 - 🌩️ Interested in Cloud, Infrastructure as Code, CI/CD, Containers & Automation  
 - 🛠️ Learning and working with modern DevOps tools and practices  
 
