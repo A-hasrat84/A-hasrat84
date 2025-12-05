@@ -40,10 +40,9 @@
 
 ## 📂 Featured Repositories
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=A-hasrat84&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/A-hasrat84/REPO_NAME_1)  
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=A-hasrat84&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/A-hasrat84/REPO_NAME_2)  
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=A-hasrat84&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/A-hasrat84/netflixclone)  
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=A-hasrat84&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/A-hasrat84/zomatoproject)  
 
-(Add more such “pinned-repo badges” as needed.)
 
 ---
 
