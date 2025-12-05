@@ -28,7 +28,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=A-hasrat84&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
